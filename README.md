@@ -7,7 +7,7 @@ Nome: Caio Valiense Lima Coelho
 Matricula: 891672
 
 ## Tela de inspeção com navegador
-<img src="Print ResultadoInspecao.jpg" alt width="480px">
+![alt text](Inspecao.png)
 
 ## Tela de projeto no Replit
-<img src="PrintReplit.png" alt width="480px">
+![alt text](PrintReplit-1.png)
